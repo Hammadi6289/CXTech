@@ -1,4 +1,5 @@
 // Q1: Write a function that will take an array as input, sort, and return the array in descending
+////
 function bubbleSortApp(arr) {
   let n = arr.length;
   let swapped;
