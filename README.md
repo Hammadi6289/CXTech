@@ -1,0 +1,1 @@
+Implemented optimized solutions for all six questions. Also optimized the algorithm for finding the most repeated number in an array and generating an array with missing elements. All solutions are implemented in JavaScript without using built-in functions
